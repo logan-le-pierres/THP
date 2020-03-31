@@ -1,0 +1,134 @@
+.container{
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.un{
+width: 350px;
+margin-top: 200px;
+}
+
+
+
+.barre-de-recherche{
+ border-radius: 20px;
+ height: 40px;
+ width: 550px;
+ border: solid 1px #80808042;
+}
+
+
+.div-btn{ 
+ margin-top: 35px;
+
+}
+button{
+  border:unset;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  color: #5F6368;
+  background-color: #f1f1f1;
+  border-radius: 7.5px;
+}
+.deux{ 
+  width: 50px;
+}
+
+.btn1{
+ margin-right: 10px;
+}
+.btn2{
+  margin-left: 10px;
+}
+.gestes{
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.lien{
+  margin-left: 20px;
+}
+
+
+.langue{
+  margin-top: 50px;
+
+
+}
+
+.bas_de_page{
+  display: flex;
+flex-direction: column;
+margin-top: 5px;
+justify-content: space-between;
+
+
+}
+
+.France{
+  border-top: solid 1px #80808042;
+  background-color: #f1f1f1;
+  
+  
+}
+
+.fr{
+  margin-left: 30px;
+}
+
+.publicite{
+  display: flex;
+  justify-content: space-between;
+  background-color: #f1f1f1;
+  padding-top: 10px;
+padding-bottom: 10px;
+border-top: solid 1px #80808042;
+
+}
+
+.gauche{
+margin-left: 30px;
+}
+
+.droite{
+margin-right: 30px;
+
+}
+.pub{
+  margin-right: 25px;
+}
+
+.style-lien{
+  color: #5F6368;
+}
+
+
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.header{
+  display: flex; 
+  justify-content: flex-end;
+}
+.gauche{
+  margin-left: 50px;
+
+}
+.droite{
+  margin-left: 50px;
+  margin-right: 50px;
+}
